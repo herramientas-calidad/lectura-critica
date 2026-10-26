@@ -1,6 +1,6 @@
 # Lectura Crítica
 
-Aplicación web: **https://herramientas-calidad.github.io/lectura-critica/** (versión 2026.05).
+Aplicación web: **https://herramientas-calidad.github.io/lectura-critica/** (versión 2026.06).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para **leer críticamente un artículo** paso a paso y aprendiendo mientras se hace.
 
