@@ -14,7 +14,7 @@
   // ---------- Versión y novedades ----------
   // Al publicar cambios: añadir una entrada AL PRINCIPIO de NOVEDADES, poner su versión en los ?v= de index.html, en
   // APP_VERSION y subir CACHE_NAME en sw.js. Formato de versión: AAAA.NN.
-  const APP_VERSION = "2026.06";
+  const APP_VERSION = "2026.07";
   const NOVEDADES = [
     { version: "2026.06", fecha: "Octubre 2026", titulo: "Semáforo más legible", cambios: [
       "En el veredicto, el color de cada bloque del semáforo («Ámbar», «Verde»…) ya no se monta encima del motivo propuesto, y el motivo que escribes al cambiar un color tiene dos líneas para leerlo entero."] },
